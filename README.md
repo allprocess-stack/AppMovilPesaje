@@ -322,4 +322,4 @@ Android | iOS | Web | Windows | Linux | macOS
 
 ## Licencia
 
-Proyecto privado — uso interno.
+Uso interno - Desarrolaldo por Anthony Josue Laura Perez.
